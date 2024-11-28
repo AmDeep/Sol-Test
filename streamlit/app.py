@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 18 14:54:37 2020
 
-@author: Murat Cihan Sorkun
-"""
 
 
 ######################
